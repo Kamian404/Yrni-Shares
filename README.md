@@ -10,7 +10,7 @@ Stand directly outside the instance you want to skip, and send me the below mess
 
 Accept my group invite, then go inside the instance.
 
-Whisper me + if you are finished, or whisper me ++ if you would like to invite some others to the group - you will be made group leader, the best way to invite friends from this point is to list a group in the LFG tool. My WeakAura will detect this and automatically leave the group once listed.
+Whisper me `+` if you are finished, or whisper me `++` if you would like to invite some others to the group - you will be made group leader, the best way to invite friends from this point is to list a group in the LFG tool. My WeakAura will detect this and automatically leave the group once listed.
 
 ### **Commands**  
 - For Normal, type `!normal` or `!nhc`. (Default Setting) 
@@ -26,7 +26,7 @@ Join the in-game community to work around this. The current invite code is alway
 
 ![Wrath of the Lich King](https://wow.zamimg.com/images/icons/expansions/wotlk.gif) Ulduar [N] (Yogg-Saron) - <img src="https://wow.zamimg.com/images/wow/icons/large/inv_misc_enggizmos_03.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=45693/mimirons-head" target="_blank">Mimiron's Head</a>
 
-![Wrath of the Lich King](https://wow.zamimg.com/images/icons/expansions/wotlk.gif) Icecrown Citadel [H] (Lich King) - [Invincibles Reins](https://www.wowhead.com/item=50818/invincibles-reins) <img src="https://warcraft.wiki.gg/images/6/60/AllianceLogo.png" width="20" height="20"> Alliance only
+![Wrath of the Lich King](https://wow.zamimg.com/images/icons/expansions/wotlk.gif) Icecrown Citadel [H] (Lich King) - <img src="https://wow.zamimg.com/images/wow/icons/large/spell_deathknight_summondeathcharger.jpg" width="20" height="20"> <a href="https://www.wowhead.com/wotlk/item=50818/invincibles-reins" target="_blank">Invincible's Reins</a>   <img src="https://warcraft.wiki.gg/images/6/60/AllianceLogo.png" width="20" height="20"> Alliance only
 
   *Note: See below for instructions*
 
@@ -61,7 +61,7 @@ Join the in-game community to work around this. The current invite code is alway
 <br><br>
 ## <img src="https://github.com/user-attachments/assets/38f791a2-a6ac-4f8f-9c09-f3b4469e8c39" width="25" height="25"> **Transmog** 
 
-![Legion](https://wow.zamimg.com/images/icons/expansions/legion.png) Emerald Nightmare [H] (Xavius) - [The First Satyr's Spaulders](https://www.wowhead.com/item=141006/the-first-satyrs-spaulders)
+![Legion](https://wow.zamimg.com/images/icons/expansions/legion.png) Emerald Nightmare [H] (Xavius) - <img src="https://wow.zamimg.com/images/wow/icons/large/inv_inscription_weaponscroll03.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=138827/illusion-nightmare" target="_blank">Illusion: Nightmare </a>, <img src="https://wow.zamimg.com/images/wow/icons/large/inv_leather_pvpdruidgladiator_o_01shoulder.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=141006/the-first-satyrs-spaulders" target="_blank">(Leather) The First Satyr's Spaulders</a>
 <br><br>
 ## <img src="https://warcraft.wiki.gg/images/6/60/AllianceLogo.png" width="20" height="20"> Icecrown Citadel (Lich King / Invincible's Reins)
 
