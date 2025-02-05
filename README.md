@@ -18,7 +18,7 @@ Whisper me `+` if you are finished, or whisper me `++` if you would like to invi
 - Once inside the instance, you have type `+` to notify me you're done, so I can assist others (I’ll leave the group automatically after 30 seconds).  
 - Or If you'd like to take the lead and invite more people or list a group, type `++` in party chat (you’ll have 60 seconds to do so).  
 <br><br>
-## Horde characters, or Alliance getting "No player named Yrni-Antonidas is currently online."
+## "No player named Yrni-Antonidas is currently online."
 
 Join the in-game community to work around this. The current invite code is always in my status posts on Discord.
 <br><br>
