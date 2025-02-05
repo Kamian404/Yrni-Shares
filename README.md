@@ -1,6 +1,6 @@
 # Yrni Lockout Shares
 
-I am sharing some raid & dungeon lockouts in World of Warcraft retail, allowing you to skip directly to the boss who drops the mount or transmog item!
+Hi, I'm [Yrna](https://worldofwarcraft.blizzard.com/en-us/character/eu/antonidas/Yrna) and I'm sharing some raid & dungeon lockouts in World of Warcraft retail, allowing you to skip directly to the boss who drops the mount or transmog item!
 
 ## Instructions
 
