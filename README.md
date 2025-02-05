@@ -10,7 +10,7 @@ Stand directly outside the instance you want to skip, and send me the below mess
 
 Accept my group invite, then go inside the instance.
 
-Whisper me `+` if you are finished, or whisper me `++` if you would like to invite some others to the group - you will be made group leader, the best way to invite friends from this point is to list a group in the LFG tool. My WeakAura will detect this and automatically leave the group once listed.
+Whisper me `+` if you are in, or whisper me `++` if you would like to invite some others to the group - you will be made group leader, the best way to invite friends from this point is to list a group in the LFG tool. My WeakAura will detect this and automatically leave the group once listed.
 
 ### **Commands**  
 - For Normal, type `!normal` or `!nhc`. (Default Setting) 
