@@ -20,7 +20,7 @@ Whisper me `+` if you are in, or whisper me `++` if you would like to invite som
 <br><br>
 ## "No player named Yrni-Antonidas is currently online."
 
-Join the in-game community to work around this. The current invite code is always in my status posts on Discord.
+Join the in-game community to work around this. The current invite code is always in my status posts on Discord and here: `LmDR2Yvswmd`
 <br><br>
 ## <img src="https://github.com/user-attachments/assets/42d54c34-21f8-41d3-940f-328bc1a3e1c9" width="25" height="25"> **Supported Instances / Raids** 
 
