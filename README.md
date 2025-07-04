@@ -23,7 +23,7 @@ Whisper me `+` if you are in, or whisper me `++` if you would like to invite som
 Join the in-game community to work around this. The current invite code is always in my status posts on Discord and here: `74rRqa3tNdp`
 <br><br>
 
-### **Quality of life Macro**
+## **Quality of life Macro**
 `/run local t="Yrni-Antonidas"; local m=(UnitInParty(t) or UnitInRaid(t)) and "+" or "!sharing"; SendChatMessage(m, "WHISPER", nil, t)`
 
 ## <img src="https://github.com/user-attachments/assets/42d54c34-21f8-41d3-940f-328bc1a3e1c9" width="25" height="25"> **Supported Instances / Raids** 
