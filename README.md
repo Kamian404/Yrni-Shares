@@ -26,6 +26,8 @@ Join the in-game community to work around this. The current invite code is alway
 ## **Quality of life Macro**
 `/run local t="Yrni-Antonidas"; local m=(UnitInParty(t) or UnitInRaid(t)) and "+" or "!sharing"; SendChatMessage(m, "WHISPER", nil, t)`
 
+This macro will automatically whisper `!sharing` if you're not in a group with me or will whisper `+` to free me up.
+
 ## <img src="https://github.com/user-attachments/assets/42d54c34-21f8-41d3-940f-328bc1a3e1c9" width="25" height="25"> **Supported Instances / Raids** 
 
 ![Wrath of the Lich King](https://wow.zamimg.com/images/icons/expansions/wotlk.gif) Ulduar [N] (Yogg-Saron) - <img src="https://wow.zamimg.com/images/wow/icons/large/inv_misc_enggizmos_03.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=45693/mimirons-head" target="_blank">Mimiron's Head</a>
