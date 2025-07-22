@@ -86,6 +86,6 @@ Step 5: (optional) Loot Invincible's Reins
 <br><br>
 ## FAQs
 
-Are you a bot? No, a WeakAura does the messaging and inviting for me (this is what a bot would say...).  
+Are you a bot? No, my Addon (https://www.curseforge.com/wow/addons/lockoutshare-y) does the messaging and inviting for me (this is what a bot would say...).  
 Can you share Dragon Soul/Mogu'shan Vault/ToT/SoO[M]/BFA dungeons - Unfortunately not, due to Blizzard limitations.  
 What do you get from doing this? - Heart reacts on Discord mostly. I do love getting messages when people get drops from my shares though.  
