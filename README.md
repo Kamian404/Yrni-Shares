@@ -8,15 +8,14 @@ Stand directly outside the instance you want to skip, and send me the below mess
 
 `/w Yrni-Antonidas !sharing`
 
-Accept my group invite, then go inside the instance.
+Accept my group invite, then go inside the instance. I will automatically pass lead and leave the group when you go inside.
 
-Whisper me `+` if you are in, or whisper me `++` if you would like to invite some others to the group - you will be made group leader, the best way to invite friends from this point is to list a group in the LFG tool. My WeakAura will detect this and automatically leave the group once listed.
+If you want to invite friends, you can either suggest I invite them to the group (automatically accepted), or send me `!lead` to be passed lead and get a short time extension once you enter the instance.
 
 ### **Commands**  
 - For Normal, type `!normal` or `!nhc`. (Default Setting) 
 - For Heroic, type `!heroic` or `!hc` in party chat or whisper.  
-- Once inside the instance, you have type `+` to notify me you're done, so I can assist others (I’ll leave the group automatically after 30 seconds).  
-- Or If you'd like to take the lead and invite more people or list a group, type `++` in party chat (you’ll have 60 seconds to do so).  
+- `!lead` - Send this to get promoted to leader so you can invite others or create a group in LFG, send this before you enter.
 <br><br>
 ## "No player named Yrni-Antonidas is currently online."
 
