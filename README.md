@@ -2,6 +2,10 @@
 
 Hi, I'm [Yrna](https://worldofwarcraft.blizzard.com/en-us/character/eu/antonidas/Yrna) and I'm sharing some raid & dungeon lockouts in World of Warcraft retail, allowing you to skip directly to the boss who drops the mount or transmog item!
 
+I'm doing this with my Addon: <a href="https://www.curseforge.com/wow/addons/lockoutshare-y">LockoutShare-Y</a><br/><br/>
+<img width="300" height="300" alt="Icon" src="https://github.com/user-attachments/assets/c387bc9b-b0bf-406a-8020-68048cbbe050" />
+
+
 ## Instructions
 
 Stand directly outside the instance you want to skip, and send me the below message from the in-game chat window:
