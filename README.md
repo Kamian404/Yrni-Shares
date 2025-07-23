@@ -24,7 +24,7 @@ If you want to invite friends, you can either suggest I invite them to the group
 <br><br>
 ## "No player named Yrni-Antonidas is currently online."
 
-Join the in-game community to work around this. The current invite code is always in my status posts on Discord and here: `74rRqa3tNdp`
+Join the in-game community to work around this. The current invite code is always in my status posts on Discord and here: `RKpPeGMHgXD`
 <br><br>
 
 ## **Quality of life Macro**
