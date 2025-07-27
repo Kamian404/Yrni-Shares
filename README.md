@@ -74,6 +74,8 @@ This macro will automatically whisper `!sharing` if you're not in a group with m
 ![Burning Crusade](https://camo.githubusercontent.com/f61e2033425eae6d6df397f573b84576409297ca080f9892163b331f18e0eea2/68747470733a2f2f7374617469632e77696b69612e6e6f636f6f6b69652e6e65742f776f7770656469612f696d616765732f302f30652f42635f69636f6e2e6769662f7265766973696f6e2f6c61746573743f63623d3230313130323138313834373032) Black Temple [N] (Illidan Stormrage) - <img src="https://wow.zamimg.com/images/wow/icons/large/inv_weapon_glave_01.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=32837/warglaive-of-azzinoth" target="_blank">Warglaive of Azzinoth</a>
 
 ![Legion](https://wow.zamimg.com/images/icons/expansions/legion.png) Emerald Nightmare [H] (Xavius) - <img src="https://wow.zamimg.com/images/wow/icons/large/inv_inscription_weaponscroll03.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=138827/illusion-nightmare" target="_blank">Illusion: Nightmare </a>, <img src="https://wow.zamimg.com/images/wow/icons/large/inv_leather_pvpdruidgladiator_o_01shoulder.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=141006/the-first-satyrs-spaulders" target="_blank">(Leather) The First Satyr's Spaulders</a>
+
+![Shadowlands](https://wow.zamimg.com/images/icons/expansions/sl.png) Castle Nathria [N/H] (Sire Denathrius) - <img src="https://wow.zamimg.com/images/wow/icons/large/inv_jewelcrafting_crimsonspinel_02.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=183395/pommel-jewel-of-remornia" target="_blank">Pommel Jewel of Remornia </a>
 <br><br>
 ## <img src="https://warcraft.wiki.gg/images/6/60/AllianceLogo.png" width="20" height="20"> Icecrown Citadel (Lich King / Invincible's Reins)
 
